@@ -59,3 +59,14 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* ZiQing Ma
+
+References
+============
+Abram Hindle - Example code
+
+https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+
+ZiQing Ma - Assignment #4
+
+https://github.com/zma9216/CMPUT404-assignment-ajax
